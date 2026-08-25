@@ -4,7 +4,7 @@ Primer proyecto colaborativo de 10. BACO
 **"Agregamos tecnologia**
 **El mejor libero**
 
-**Nombre del proyecto:** TechCheck
+# TechCheck
 **Problema que resolverá:** La dificultad para verificar compatibilidad de componentes de PC (procesador, tarjeta madre, RAM) al armar o reparar un equipo.
 **Personas que lo usarían:** Estudiantes de computación, técnicos en soporte y entusiastas del hardware.
 **Tipo de proyecto:** Web App / Herramienta de consulta rápida.
